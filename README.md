@@ -11,3 +11,5 @@ Done through the Odin Project
 Some more commits done in VIM to see if I can do the commit message in VIM as well, since I'm comfortable with it.
 
 Even more times I wonder if this will work.
+
+And some more commits to see if I can get this to work.
