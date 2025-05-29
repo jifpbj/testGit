@@ -7,3 +7,7 @@ Edit this in VS CODE or Lazyvim. Who cares!
 Just try to commit the changes to git
 
 Done through the Odin Project
+
+Some more commits done in VIM to see if I can do the commit message in VIM as well, since I'm comfortable with it.
+
+Even more times I wonder if this will work.
