@@ -5,3 +5,5 @@ This is a project to test git functionality. I have some trouble with git comman
 Edit this in VS CODE or Lazyvim. Who cares!
 
 Just try to commit the changes to git
+
+Done through the Odin Project
